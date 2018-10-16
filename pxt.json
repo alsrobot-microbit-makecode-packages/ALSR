@@ -1,0 +1,13 @@
+{
+    "name": "KeyBoard",
+    "dependencies": {
+        "core": "*"
+    },
+    "description": "Keyboard模拟式五路大按键模块 由哈尔滨奥松机器人科技股份有限公司（Alsrobot）开发、维护",
+    "icon": "./KeyBoard.jpg",
+    "license": "MIT",
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
