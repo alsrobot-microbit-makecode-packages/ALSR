@@ -3,8 +3,8 @@
     "dependencies": {
         "core": "*"
     },
-    "description": "Keyboard模拟式五路大按键模块 由哈尔滨奥松机器人科技股份有限公司（Alsrobot）开发、维护",
-    "icon": "./KeyBoard.jpg",
+    "description": "Keyboard analog five-way large button module developed and maintained by Harbin Aosong Robot Technology Co., Ltd (ALSRobot). Keyboard模拟式五路大按键模块由哈尔滨奥松机器人科技股份有限公司开发、维护",
+    "icon": "icon.png",
     "license": "MIT",
     "files": [
         "main.ts"
