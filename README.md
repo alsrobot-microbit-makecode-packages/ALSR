@@ -1,4 +1,4 @@
-# Keyboard
+# ALSRobot Keyboard
 The github address of the package is https://github.com/alsrobot-microbit-makecode-packages/ALSRobotKeyboard
 The maintenance staff of the package is https://github.com/bobolx
 
@@ -20,7 +20,7 @@ KeyBoard.btnreleased(AnalogPin.P1)
 MIT
 
 
-# 模拟五大按键模块
+# 奥松模拟五大按键模块
 软件包github地址为：https://github.com/alsrobot-microbit-makecode-packages/ALSRobotKeyboard
 软件包修改维护人员：https://github.com/bobolx
 
