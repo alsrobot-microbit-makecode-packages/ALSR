@@ -4,7 +4,7 @@ The maintenance staff of the package is https://github.com/bobolx
 
 The button module (for details, please visit: http://www.alsrobot.cn/goods-873.html) needs to be equipped with our company's micro:bit motor driver expansion board (for details, please visit: http://www.alsrobot.cn/goods-846.html) Use the 3P line (see http://www.alsrobot.cn/goods-786.html) and connect it to any of P0, P1 or P2.
 
-## 按钮
+## Button
 //Connect to the p1 pin. If the S1 button is pressed, the following method returns true, otherwise it returns false.
 KeyBoard.btnPressed(AnalogPin.P1, btnList.S1)
 
@@ -20,7 +20,7 @@ KeyBoard.btnreleased(AnalogPin.P1)
 MIT
 
 
-# Keyboard
+# 模拟五大按键模块
 软件包github地址为：https://github.com/alsrobot-microbit-makecode-packages/ALSRobotKeyboard
 软件包修改维护人员：https://github.com/bobolx
 
