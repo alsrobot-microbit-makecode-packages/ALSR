@@ -1,6 +1,6 @@
 # ALSRobot Keyboard
 The github address of the package is https://github.com/alsrobot-microbit-makecode-packages/ALSRobotKeyboard
-The maintenance staff of the package is https://github.com/bobolx
+The maintenance staff of the package is https://github.com/lzl525898
 
 The button module (for details, please visit: http://www.alsrobot.cn/goods-873.html) needs to be equipped with our company's micro:bit motor driver expansion board (for details, please visit: http://www.alsrobot.cn/goods-846.html) Use the 3P line (see http://www.alsrobot.cn/goods-786.html) and connect it to any of P0, P1 or P2.
 
@@ -22,7 +22,7 @@ MIT
 
 # 奥松模拟五大按键模块
 软件包github地址为：https://github.com/alsrobot-microbit-makecode-packages/ALSRobotKeyboard
-软件包修改维护人员：https://github.com/bobolx
+软件包修改维护人员：https://github.com/lzl525898
 
 该按键模块（详情请访问：http://www.alsrobot.cn/goods-873.html）需要与我们公司的micro:bit 电机驱动扩展板（详情请访问：http://www.alsrobot.cn/goods-846.html）使用3P线（详情请见：http://www.alsrobot.cn/goods-786.html）连接使用，可以接在P0、P1或者P2的任意一个
 
