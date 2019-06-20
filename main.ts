@@ -16,8 +16,8 @@ enum btnList{
 namespace KeyBoard {
 
     //% weight=99
-    //% blockId="btn_pressed" block="连接引脚 %pin| 按钮 %btn|  按下"
-    export function btnPressed(pin: AnalogPin, btn:btnList): boolean {
+    //% blockId="btn_pressed_kb" block="Pin %pin| Button %btn| Pressed"
+    export function btnPressedKeyBoard(pin: AnalogPin, btn:btnList): boolean {
 
         if(btn == btnList.S1){
 
@@ -44,7 +44,7 @@ namespace KeyBoard {
     }
     
     //% weight=98
-    //% blockId="btn_released" block="连接引脚 %pin| 按钮抬起"
+    //% blockId="btn_released" block="Pin %pin| btn_pressed"
     export function btnreleased(pin: AnalogPin): boolean {
 
         return pins.analogReadPin(pin) > 1010;

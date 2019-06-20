@@ -1,0 +1,4 @@
+{
+	"KeyBoard.btnPressedKeyBoard|block": "连接引脚 %pin| 按钮 %btn|  按下",
+	"KeyBoard.btnreleased|block": "连接引脚 %pin| 按钮 %btn|  按下",
+}
